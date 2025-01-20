@@ -56,7 +56,7 @@ Error Reduction: Minimizes human error in patient records, prescriptions, and bi
 
 ## 🌐 *Find Me Online*
 
-- [GitHub](https://github.com/shri2233/hms.github.io/edit/main/README.md)
+- [GitHub](https://github.com/shri2233/portfolio.github.io/tree/main)
 - [LinkedIn](https://www.linkedin.com/in/shrikant-angadi-angadi-4404352ab/)
 
 ## Portfolio Highlights
